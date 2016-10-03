@@ -1,0 +1,24 @@
+{
+  "menu": [
+    {
+      "text": "Home",
+      "href": "#"
+    },
+    {
+      "text": "About",
+      "href": "#"
+    },
+    {
+      "text": "Portfolio",
+      "href": "#"
+    },
+    {
+      "text": "News",
+      "href": "#"
+    },
+    {
+      "text": "Contact",
+      "href": "#"
+    }
+  ]
+}
